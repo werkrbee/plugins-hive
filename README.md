@@ -1,3 +1,9 @@
+> **Moved.** This hive now lives in
+> [werkrbee/ai-hive](https://github.com/werkrbee/ai-hive/tree/main/hives/plugins-hive)
+> under `hives/plugins-hive`, where all development happens.
+> This repository is archived read-only and keeps the
+> history up to the move.
+
 <p align="center">
   <img src="assets/plugins-hive-logo.svg" alt="plugins-hive — bundle skills, rules, tools, and agents in one install" width="620">
 </p>
